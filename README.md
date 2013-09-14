@@ -14,7 +14,7 @@ But it's not a gem or node module, so it doesn't require anything other than Go.
 
 ### Install
 
-    $ go get github.com/sdegutis/fswatch
+    $ go get github.com/seanbr/fswatch
 
 ### Usage
 
