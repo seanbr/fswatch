@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 import "strings"
-import "github.com/sdegutis/go.shattr"
+import "github.com/seanbr/go.shattr"
 
 func decorate(cmd command, exec func(command)) func() {
   return func() {
