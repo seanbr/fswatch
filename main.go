@@ -4,7 +4,7 @@ import "os"
 import "os/signal"
 import "fmt"
 
-import "github.com/sdegutis/go.fsevents"
+import "github.com/seanbr/go.fsevents"
 
 const Version = "3.1"
 
