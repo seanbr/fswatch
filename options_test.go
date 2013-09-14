@@ -1,7 +1,7 @@
 package main
 
 import "testing"
-import "github.com/sdegutis/go.assert"
+import "github.com/couchbaselabs/go.assert"
 import "bytes"
 import "strings"
 
